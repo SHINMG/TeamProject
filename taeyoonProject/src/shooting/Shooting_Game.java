@@ -16,6 +16,7 @@ public class Shooting_Game {
     }
 }
 
+//프레임값
 class game_Frame extends JFrame implements KeyListener, Runnable {
 
     int f_width;                //프레임넓이값을받는변수
