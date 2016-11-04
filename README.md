@@ -1,3 +1,3 @@
 # TeamProject 
 
-Made by ShinMyonegl, KimTaeyoon
+Made by ShinMyeongGil, KimTaeYoon
